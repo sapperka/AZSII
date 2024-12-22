@@ -7,6 +7,7 @@
 4. [Практическая работа №4](https://github.com/sapperka/AZSII/blob/main/АЗСИИ_ББМО_02_23_Рыбаков_ПР4.ipynb)
 5. [Практическая работа №5](https://github.com/sapperka/AZSII/blob/main/АЗСИИ_ББМО_02_23_Рыбаков_ПР5.ipynb)
 6. [Практическая работа №6](https://github.com/sapperka/AZSII/blob/main/АЗСИИ_ББМО_02_23_Рыбаков_ПР6.ipynb)
+7. [Практическая работа №7](https://github.com/sapperka/AZSII/blob/main/АЗСИИ_ББМО_02_23_Рыбаков_ПР7.ipynb)
 
 ## Лабораторные работы:
 
